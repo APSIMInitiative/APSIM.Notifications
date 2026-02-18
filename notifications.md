@@ -10,7 +10,6 @@ Here is a test list:
 - item 2
 - item 3
 - item 4
-- 
 
 Here is a code block:
 
