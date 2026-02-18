@@ -1,22 +1,11 @@
-### Test Heading
-Test message for Zaynel
 
-This is a test notification for the prototype notification system to be introduced
-into the APSIM GUI. 
 
-Here is a test list:
+![APSIM Logo](https://github.com/APSIMInitiative/APSIM.Notifications/blob/main/apsim-logo.png?raw=true)
 
-- item 1
-- item 2
-- item 3
-- item 4
+### New Notification Panel
 
-Here is a code block:
+The notification panel has been introduced to show bite-sized messages for APSIM users.
 
-```c#
-Console.WriteLine("Hello world!");
-```
+For other APSIM news see the [APSIM Website](https://www.apsim.info)
 
-Here is an image:
 
-![APSIM Logo](https://github.com/APSIMInitiative/APSIM.Notifications/blob/main/apsim-logo.png)
