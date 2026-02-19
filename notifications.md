@@ -1,6 +1,9 @@
 
+<div style="text-align: center;">
 
 ![APSIM Logo](https://github.com/APSIMInitiative/APSIM.Notifications/blob/main/apsim-logo.png?raw=true)
+
+</div>
 
 ### New Notification Panel
 
