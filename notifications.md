@@ -5,3 +5,5 @@ The notification panel has been introduced to show bite-sized messages for APSIM
 For other APSIM news see the [APSIM Website](https://www.apsim.info)
 
 This text is here for demonstration purposes.
+
+This is some more text for demonstration purposes.
